@@ -1,0 +1,15 @@
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.csproj.AssemblyReference.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.AssemblyInfoInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.AssemblyInfo.cs
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.csproj.CoreCompileInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\bin\Debug\net6.0\task1polindrom.exe
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\bin\Debug\net6.0\task1polindrom.deps.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\bin\Debug\net6.0\task1polindrom.runtimeconfig.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\bin\Debug\net6.0\task1polindrom.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\bin\Debug\net6.0\task1polindrom.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\refint\task1polindrom.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\task1polindrom.genruntimeconfig.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task1polindrom\obj\Debug\net6.0\ref\task1polindrom.dll

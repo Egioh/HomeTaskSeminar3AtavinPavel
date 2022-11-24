@@ -1,0 +1,15 @@
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.csproj.AssemblyReference.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.AssemblyInfoInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.AssemblyInfo.cs
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.csproj.CoreCompileInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\bin\Debug\net6.0\task3coub.exe
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\bin\Debug\net6.0\task3coub.deps.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\bin\Debug\net6.0\task3coub.runtimeconfig.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\bin\Debug\net6.0\task3coub.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\bin\Debug\net6.0\task3coub.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\refint\task3coub.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\task3coub.genruntimeconfig.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task3coub\obj\Debug\net6.0\ref\task3coub.dll

@@ -1,0 +1,15 @@
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\bin\Debug\net6.0\task2Distance3d.exe
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\bin\Debug\net6.0\task2Distance3d.deps.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\bin\Debug\net6.0\task2Distance3d.runtimeconfig.json
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\bin\Debug\net6.0\task2Distance3d.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\bin\Debug\net6.0\task2Distance3d.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.csproj.AssemblyReference.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.AssemblyInfoInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.AssemblyInfo.cs
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.csproj.CoreCompileInputs.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\refint\task2Distance3d.dll
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.pdb
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\task2Distance3d.genruntimeconfig.cache
+C:\Users\iManxman\Desktop\geek\HomeTaskSeminar3\task2Distance3d\obj\Debug\net6.0\ref\task2Distance3d.dll
